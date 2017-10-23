@@ -6,5 +6,16 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'PWAs at ATO';
+  public value: Date = new Date(2020, 2, 22);
+  public listItems: Array<string> = [
+     "Earth",
+     "Jupiter",
+     "Mars",
+     "Mercury",
+     "Neptune",
+     "Saturn",
+     "Uranus",
+     "Venus"
+  ];
 }
