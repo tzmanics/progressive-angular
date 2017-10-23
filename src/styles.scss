@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Fascinate+Inline');
+@import "~@progress/kendo-theme-material/scss/all";
+html {
+  background-image: url(http://www.publicdomainpictures.net/pictures/70000/velka/graphic-space.jpg);
+}
+
+h1 {
+  color: white;
+  font-family: 'Fascinate Inline', cursive;
+  font-size: 3em;
+  padding-left: 1em;
+  text-align: left;
+}
+
+img {
+  float: left;
+}
+
+button {
+  margin-top: 1em;
+}

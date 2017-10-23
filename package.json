@@ -26,6 +26,7 @@
     "@progress/kendo-angular-dropdowns": "^1.2.2",
     "@progress/kendo-angular-intl": "^1.2.2",
     "@progress/kendo-angular-l10n": "^1.0.4",
+    "@progress/kendo-theme-material": "^0.2.3",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
     "zone.js": "^0.8.14"
